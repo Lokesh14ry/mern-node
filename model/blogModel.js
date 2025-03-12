@@ -8,7 +8,7 @@ const blogSchema = new Schema({
     },
     subtitle: {
         type: String,
-
+            
     },
 
     description: {
